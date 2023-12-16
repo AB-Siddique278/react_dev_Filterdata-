@@ -1,8 +1,6 @@
 # React Js Data Table
 
-## Live link [Link]().
 
-## Available Scripts
 
 ## How I create this Websites.
 * In this websites I create this websites using React & Redux
