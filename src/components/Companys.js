@@ -57,10 +57,12 @@ const Companys = () => {
                     <option value="0">Inactive</option>
                 </select>
             </div> */}
+            <div>
+            <h1 className='text-center text-gray-700 uppercase font-bold text-xl mt-4'>Task-2</h1>
+            </div>
 
-
-            <div className='mb-10 gap-3 py-10'>
-                <label className='text-xs text-gray-700 uppercase font-bold'>Company Name: </label>
+            <div className='mb-10 gap-3 px-20 py-5'>
+                <label className='text-xs text-gray-700 uppercase font-bold'>Filtered by Company Name: </label>
                 <input
                     placeholder="Type here" className="input input-bordered w-full max-w-xs m-4"
                     type="text"
